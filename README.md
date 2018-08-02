@@ -9,7 +9,5 @@ In order to start the client, run:
 npm install && ng serve (or npm start)
 ```
 
-**The application uses the [*EmojiOne*](https://www.jsdelivr.com/package/npm/emojione) package from [jsDelivr](https://www.jsdelivr.com/about)
-*Open Source CDN for npm and GitHub*, for a complete set of emojis designed for the web. 
-It includes libraries to easily convert unicode characters to shortnames (:smile:) and shortnames to custom emoji images. 
-PNG formats provided for the emoji images.**
+**The application uses the [*EmojiOne*](https://www.jsdelivr.com/package/npm/emojione) package from [jsDelivr](https://www.jsdelivr.com/about) *Open Source CDN for npm and GitHub*, for a complete set of emojis designed for the web. 
+It includes libraries to easily convert unicode characters to shortnames (:smile:) and shortnames to custom emoji images. **
